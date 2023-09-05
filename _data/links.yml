@@ -6,6 +6,6 @@
 #   url: https://yuchao.wang/
 #   src: www
 
--name: 沧海
- url: https://www.lchblog.top
- src: self
+- name: 沧海
+  url: https://www.lchblog.top
+  src: self
