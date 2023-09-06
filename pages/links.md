@@ -11,8 +11,8 @@ permalink: /links/
 > God made relatives. Thank God we can choose our friends.
 
 <ul>
-{% for link in site.data.links %}
-  {% if link.src == 'self' %}
+{% for self in site.data.self %}
+  {% if self.src == 'self' %}
   <li><a href="{{ self.url }}" target="_blank">{{ self.name}}</a></li>
   {% endif %}
 {% endfor %}
