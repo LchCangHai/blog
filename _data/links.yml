@@ -1,11 +1,3 @@
-# - name: 码志
-#   url: http://mazhuang.org
-#   src: life
-
-# - name: 王玉超
-#   url: https://yuchao.wang/
-#   src: www
-
-- name: 沧海
+- name: 沧海的blog
   url: https://www.lchblog.top
   src: self

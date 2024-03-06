@@ -1,0 +1,21 @@
+#  收藏夹
+## 资源
+
+- name: z-library
+  url: https://zlibrary-sg.se/
+  src: resource
+  src1: book
+
+- name: Annas-Archive
+  url: https://annas-archive.org/
+  src: resource
+  src1: book
+
+
+## 收藏
+
+- name: 使用meta内核的客户端
+  url: https://clash-meta.gitbook.io/clash.meta-wiki-older/used
+  src: collect
+  src1: vpn
+

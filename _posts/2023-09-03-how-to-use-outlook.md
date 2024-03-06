@@ -10,9 +10,10 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
+typora-root-url: ../
 ---
 
-
+本文介绍了我使用outlook软件的一些问题
 
 ## 微软账号和QQ邮箱一致问题
 
@@ -60,17 +61,18 @@ outlook软件是将邮件、日历、TODO三个集成在一起了
 
 打开QQ邮箱，点进左上角【设置】，进入【账号】界面
 
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902203934.png)
+![image-20230907131035325](/images/posts/2023-09-03-how-to-use-outlook/image-20230907131035325.png)
 
 找到【IMAP/SMTP】选项，开启服务
 
 开启后，点击【管理服务】，进入QQ邮箱账号与安全界面
 
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902204012.png)
+![image-20230907131901626](/images/posts/2023-09-03-how-to-use-outlook/image-20230907131901626.png)
 
 ---
 在【安全设置】选项中的 IMAP/SMTP 服务这里点击生成授权码
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902204149.png)
+
+![image.png](/images/posts/2023-09-03-how-to-use-outlook/image-20230907131915657.png)
 
 ---
 **授权码只显示一次，可以重复利用，也可以每次要用都生成新的授权码（建议截图保存，因为手机端的outlook软件也需要同样的再操作一次）**
@@ -94,31 +96,34 @@ outlook软件是将邮件、日历、TODO三个集成在一起了
 ### outlook添加QQ邮箱
 
 点击左上方【文件】选项，再点击【添加账户】按钮：
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902202855.png)
+
+![image.png](/images/posts/2023-09-03-how-to-use-outlook/image-20230907131929538.png)
 
 ---
 【高级选项】点开后，勾选选项
 
 点击【连接】
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902204759.png)
+
+![image.png](/images/posts/2023-09-03-how-to-use-outlook/image-20230907131940199.png)
 
 ---
 选择【IMAP】方法
 
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902202940.png)
+![image-20230907131953715](/images/posts/2023-09-03-how-to-use-outlook/image-20230907131953715.png)
 
 ---
 接下来是【账户设置】，填写内容按照前面的设置信息
 
 填好后，点击【下一步】
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902205046.png)
+
+![image.png](/images/posts/2023-09-03-how-to-use-outlook/image-20230907132012911.png)
 
 ---
 最后输入密码，这里的是刚才在QQ邮箱获取的授权码，不是QQ密码
 
 填入授权码后连接即可
 
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902205252.png)
+![image-20230907132023703](/images/posts/2023-09-03-how-to-use-outlook/image-20230907132023703.png)
 
 ---
 已经连接上了
@@ -130,7 +135,8 @@ outlook软件是将邮件、日历、TODO三个集成在一起了
 邮件界面：
 
 可进行的设置也更多：
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902223211.png)
+
+![image.png](/images/posts/2023-09-03-how-to-use-outlook/image-20230907132104454.png)
 
 ---
 使用时自动登录了微软账号的邮箱，再添加QQ邮箱等常用邮件即可
@@ -140,7 +146,7 @@ outlook软件是将邮件、日历、TODO三个集成在一起了
 
 日历、联系人的信息是和微软账号的邮箱关联的（onedrive可能？所以得加上）
 
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902223440.png)
+![image-20230907132131004](/images/posts/2023-09-03-how-to-use-outlook/image-20230907132131004.png)
 
 ---
 侧边栏的日历、联系人、todolist
@@ -152,7 +158,7 @@ outlook软件是将邮件、日历、TODO三个集成在一起了
 
 如果outlook只加上QQ邮箱，那么日历就是本地日历（无法同步）
 
-![image.png](https://gitee.com/lchcanghai/typoraimgbed/raw/master/images/20230902223729.png)
+![image-20230907132153087](/images/posts/2023-09-03-how-to-use-outlook/image-20230907132153087.png)
 
 ---
 
