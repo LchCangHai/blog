@@ -13,7 +13,7 @@ mindmap2: false
 typora-root-url: ../
 ---
 
-## GitHub API authentication
+## GitHub API authentication - github pages本地预览
 
 ### 问题描述
 
@@ -115,6 +115,8 @@ TCP    127.0.0.1:4000         0.0.0.0:0              LISTENING       13688
 ### 相关链接
 
 [博客](https://segmentfault.com/q/1010000010483290)
+
+[参考 GitHub 的官方说明:Setting up your Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/)
 
 
 

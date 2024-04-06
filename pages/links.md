@@ -54,7 +54,7 @@ permalink: /links/
 <ul>
 {% for link in site.data.links_my %}
   {% if link.src == 'collect' %}
-    {% if link.src2 == 'vpn %}
+    {% if link.src1 == 'vpn' %}
     <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
     {% endif %}
   {% endif %}

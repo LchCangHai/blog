@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python use: argparse
+title: Python use - argparse
 categories: [Python, usage]
 description: Python自带的库argparse的使用，实验结果
 keywords: Python, Usage
